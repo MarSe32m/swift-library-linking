@@ -1,0 +1,4 @@
+module CLibrary {
+    header "lib.h"
+    export *
+}
