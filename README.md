@@ -85,4 +85,4 @@ On linux you can use
 ```shell
 readelf -a <file> | grep "Shared library"
 ```
-(grep Shared is also enough) to find all the needed shared libraries of the executable.
+(grep Shared is also enough) to find all the needed shared libraries of an executable or .so file.
